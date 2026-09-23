@@ -1,0 +1,75 @@
+{
+ "sessions": [
+  {
+   "sessionId": "934051c0-f471-4168-8919-3c0810d3d938",
+   "eventId": "c4608821-8a20-488d-b99b-bef8a515be81",
+   "sessionType": "race",
+   "startTime": "2026-09-13T13:00:00.000Z",
+   "title": "2026 Spanish GP - Race Post-Session Thread",
+   "body": "# 🏁 RACE RESULTS\n\n| Pos | Driver | Team | Laps | Time/Status | Points |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 57 | 1:34:23.754 | 25 |\n| 2 | Max Verstappen | Red Bull Racing | 57 | +4.351s | 18 |\n| 3 | Lando Norris | McLaren | 57 | +5.089s | 15 |\n| 4 | Charles Leclerc | Ferrari | 57 | +29.116s | 12 |\n| 5 | George Russell | Mercedes | 57 | +29.829s | 10 |\n| 6 | Liam Lawson | Red Bull Racing | 57 | +86.746s | 8 |\n| 7 | Franco Colapinto | Alpine | 57 | +94.281s | 6 |\n| 8 | Oscar Piastri | McLaren | 57 | +95.839s | 4 |\n| 9 | Arvid Lindblad | Racing Bulls | 56 | +1 lap | 2 |\n| 10 | Nico Hulkenberg | Audi | 56 | +1 lap | 1 |\n| 11 | Esteban Ocon | Haas F1 Team | 56 | +1 lap | 0 |\n| 12 | Pierre Gasly | Alpine | 56 | +1 lap | 0 |\n| 13 | Gabriel Bortoleto | Audi | 56 | +1 lap | 0 |\n| 14 | Yuki Tsunoda | Racing Bulls | 56 | +1 lap | 0 |\n| 15 | Alexander Albon | Williams | 56 | +1 lap | 0 |\n| 16 | Oliver Bearman | Haas F1 Team | 56 | +1 lap | 0 |\n| 17 | Fernando Alonso | Aston Martin | 55 | +2 laps | 0 |\n| 18 | Valtteri Bottas | Cadillac | 54 | +3 laps | 0 |\n| NC | Carlos Sainz | Williams | 43 | DNF | 0 |\n| NC | Sergio Perez | Cadillac | 31 | DNF | 0 |\n| NC | Lance Stroll | Aston Martin | 12 | DNF | 0 |\n| NC | Lewis Hamilton | Ferrari | 6 | DNF | 0 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SUN 13 SEP, 13:00 UTC\n* **Track**: Madring, Madrid\n* **Weather**: Clear, 30°C air, 53.3°C track, wind 6.7 kph, 24.7% humidity"
+  },
+  {
+   "sessionId": "dbec8296-cfe2-4516-b11f-746c2d4725e2",
+   "eventId": "c4608821-8a20-488d-b99b-bef8a515be81",
+   "sessionType": "qualifying",
+   "startTime": "2026-09-12T14:00:00.000Z",
+   "title": "2026 Spanish GP - Qualifying Post-Session Thread",
+   "body": "# 🏁 QUALIFYING RESULTS\n\n| Pos | Driver | Team | Time |\n|:-|:-|:-|:-|\n| 1 | Lando Norris | McLaren | 1:31.824 |\n| 2 | Kimi Antonelli | Mercedes | 1:31.835 |\n| 3 | Max Verstappen | Red Bull Racing | 1:31.964 |\n| 4 | Lewis Hamilton | Ferrari | 1:32.013 |\n| 5 | Charles Leclerc | Ferrari | 1:32.019 |\n| 6 | George Russell | Mercedes | 1:32.149 |\n| 7 | Oscar Piastri | McLaren | 1:32.294 |\n| 8 | Liam Lawson | Red Bull Racing | 1:32.316 |\n| 9 | Franco Colapinto | Alpine | 1:32.903 |\n| 10 | Arvid Lindblad | Racing Bulls | 1:33.041 |\n| 11 | Nico Hulkenberg | Audi | 1:33.223 |\n| 12 | Gabriel Bortoleto | Audi | 1:33.388 |\n| 13 | Esteban Ocon | Haas F1 Team | 1:33.667 |\n| 14 | Pierre Gasly | Alpine | 1:33.753 |\n| 15 | Yuki Tsunoda | Racing Bulls | 1:34.084 |\n| 16 | Carlos Sainz | Williams | 1:35.312 |\n| 17 | Fernando Alonso | Aston Martin | 1:35.388 |\n| 18 | Alexander Albon | Williams | 1:35.532 |\n| 19 | Sergio Perez | Cadillac | 1:35.913 |\n| 20 | Valtteri Bottas | Cadillac | 1:38.011 |\n| NC | Oliver Bearman | Haas F1 Team | - |\n| NC | Lance Stroll | Aston Martin | - |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 12 SEP, 14:00 UTC\n* **Track**: Madring, Madrid\n* **Weather**: Clear, 30.3°C air, 53.9°C track, wind 4.7 kph, 19.7% humidity"
+  },
+  {
+   "sessionId": "26dad685-93e4-4895-903e-e959ee14549a",
+   "eventId": "c4608821-8a20-488d-b99b-bef8a515be81",
+   "sessionType": "practice",
+   "startTime": "2026-09-12T10:30:00.000Z",
+   "title": "2026 Spanish GP - FP3 Post-Session Thread",
+   "body": "# 🏁 FP3 RESULTS\n\n| Pos | Driver | Team | Time | Laps |\n|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 1:32.797 | 13 |\n| 2 | Charles Leclerc | Ferrari | 1:32.963 | 13 |\n| 3 | Oscar Piastri | McLaren | 1:32.986 | 12 |\n| 4 | Lando Norris | McLaren | 1:33.033 | 13 |\n| 5 | Max Verstappen | Red Bull Racing | 1:33.172 | 9 |\n| 6 | George Russell | Mercedes | 1:33.499 | 11 |\n| 7 | Liam Lawson | Red Bull Racing | 1:33.902 | 14 |\n| 8 | Nico Hulkenberg | Audi | 1:33.933 | 14 |\n| 9 | Lewis Hamilton | Ferrari | 1:34.284 | 5 |\n| 10 | Gabriel Bortoleto | Audi | 1:34.288 | 15 |\n| 11 | Franco Colapinto | Alpine | 1:34.346 | 14 |\n| 12 | Esteban Ocon | Haas F1 Team | 1:34.430 | 12 |\n| 13 | Oliver Bearman | Haas F1 Team | 1:34.481 | 12 |\n| 14 | Arvid Lindblad | Racing Bulls | 1:34.505 | 7 |\n| 15 | Yuki Tsunoda | Racing Bulls | 1:34.565 | 12 |\n| 16 | Pierre Gasly | Alpine | 1:34.971 | 13 |\n| 17 | Fernando Alonso | Aston Martin | 1:35.020 | 17 |\n| 18 | Carlos Sainz | Williams | 1:35.464 | 15 |\n| 19 | Lance Stroll | Aston Martin | 1:35.570 | 12 |\n| 20 | Sergio Perez | Cadillac | 1:36.441 | 13 |\n| 21 | Valtteri Bottas | Cadillac | 1:36.670 | 13 |\n| 22 | Alexander Albon | Williams | - | 2 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 12 SEP, 10:30 UTC\n* **Track**: Madring, Madrid\n* **Weather**: Clear, 24.4°C air, 44.4°C track, wind 5.6 kph, 41.4% humidity"
+  },
+  {
+   "sessionId": "7ef0bdab-3d19-4492-8021-0946a5e3ee13",
+   "eventId": "c4608821-8a20-488d-b99b-bef8a515be81",
+   "sessionType": "practice",
+   "startTime": "2026-09-11T15:00:00.000Z",
+   "title": "2026 Spanish GP - FP2 Post-Session Thread",
+   "body": "# 🏁 FP2 RESULTS\n\n| Pos | Driver | Team | Time | Laps |\n|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 1:33.662 | 24 |\n| 2 | Charles Leclerc | Ferrari | 1:33.775 | 26 |\n| 3 | Lewis Hamilton | Ferrari | 1:33.811 | 23 |\n| 4 | Arvid Lindblad | Racing Bulls | 1:33.890 | 15 |\n| 5 | George Russell | Mercedes | 1:33.999 | 25 |\n| 6 | Max Verstappen | Red Bull Racing | 1:34.063 | 22 |\n| 7 | Oscar Piastri | McLaren | 1:34.200 | 24 |\n| 8 | Yuki Tsunoda | Racing Bulls | 1:34.758 | 26 |\n| 9 | Esteban Ocon | Haas F1 Team | 1:34.867 | 26 |\n| 10 | Liam Lawson | Red Bull Racing | 1:34.938 | 21 |\n| 11 | Pierre Gasly | Alpine | 1:34.959 | 21 |\n| 12 | Nico Hulkenberg | Audi | 1:35.060 | 22 |\n| 13 | Gabriel Bortoleto | Audi | 1:35.170 | 25 |\n| 14 | Oliver Bearman | Haas F1 Team | 1:35.203 | 26 |\n| 15 | Franco Colapinto | Alpine | 1:35.886 | 22 |\n| 16 | Carlos Sainz | Williams | 1:36.291 | 25 |\n| 17 | Fernando Alonso | Aston Martin | 1:36.780 | 16 |\n| 18 | Alexander Albon | Williams | 1:36.936 | 22 |\n| 19 | Sergio Perez | Cadillac | 1:37.195 | 24 |\n| 20 | Lance Stroll | Aston Martin | 1:37.273 | 20 |\n| 21 | Valtteri Bottas | Cadillac | 1:37.727 | 24 |\n| 22 | Lando Norris | McLaren | - | 2 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: FRI 11 SEP, 15:00 UTC\n* **Track**: Madring, Madrid\n* **Weather**: Mostly clear, 30.1°C air, 52.7°C track, wind 4.6 kph, 12% humidity"
+  },
+  {
+   "sessionId": "66ad65e3-dd9c-4c37-8111-fe26755ce0f9",
+   "eventId": "c4608821-8a20-488d-b99b-bef8a515be81",
+   "sessionType": "practice",
+   "startTime": "2026-09-11T11:30:00.000Z",
+   "title": "2026 Spanish GP - FP1 Post-Session Thread",
+   "body": "# 🏁 FP1 RESULTS\n\n| Pos | Driver | Team | Time | Laps |\n|:-|:-|:-|:-|:-|\n| 1 | George Russell | Mercedes | 1:34.077 | 28 |\n| 2 | Kimi Antonelli | Mercedes | 1:34.363 | 27 |\n| 3 | Charles Leclerc | Ferrari | 1:34.536 | 27 |\n| 4 | Lewis Hamilton | Ferrari | 1:34.620 | 27 |\n| 5 | Max Verstappen | Red Bull Racing | 1:34.703 | 25 |\n| 6 | Lando Norris | McLaren | 1:34.947 | 27 |\n| 7 | Arvid Lindblad | Racing Bulls | 1:35.033 | 28 |\n| 8 | Oscar Piastri | McLaren | 1:35.148 | 22 |\n| 9 | Nico Hulkenberg | Audi | 1:35.529 | 26 |\n| 10 | Liam Lawson | Red Bull Racing | 1:35.539 | 26 |\n| 11 | Gabriel Bortoleto | Audi | 1:35.652 | 27 |\n| 12 | Esteban Ocon | Haas F1 Team | 1:35.834 | 25 |\n| 13 | Franco Colapinto | Alpine | 1:35.933 | 24 |\n| 14 | Pierre Gasly | Alpine | 1:36.244 | 23 |\n| 15 | Fernando Alonso | Aston Martin | 1:36.473 | 27 |\n| 16 | Oliver Bearman | Haas F1 Team | 1:36.853 | 24 |\n| 17 | Carlos Sainz | Williams | 1:36.870 | 30 |\n| 18 | Yuki Tsunoda | Racing Bulls | 1:36.939 | 16 |\n| 19 | Lance Stroll | Aston Martin | 1:37.254 | 26 |\n| 20 | Alexander Albon | Williams | 1:37.591 | 25 |\n| 21 | Sergio Perez | Cadillac | 1:38.150 | 26 |\n| 22 | Valtteri Bottas | Cadillac | 1:38.818 | 25 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: FRI 11 SEP, 11:30 UTC\n* **Track**: Madring, Madrid\n* **Weather**: Mostly clear, 26.4°C air, 48°C track, wind 3.6 kph, 17% humidity"
+  },
+  {
+   "sessionId": "7ab5539d-31b1-4a06-bf29-a4ddd69c2af3",
+   "eventId": "08a0f685-fb4b-4749-8c6f-16981ef62b55",
+   "sessionType": "race",
+   "startTime": "2026-09-06T13:00:00.000Z",
+   "title": "2026 Italian GP - Race Post-Session Thread",
+   "body": "# 🏁 RACE RESULTS\n\n| Pos | Driver | Team | Laps | Time/Status | Points |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 53 | 1:51:15.281 | 25 |\n| 2 | George Russell | Mercedes | 53 | +3.857s | 18 |\n| 3 | Max Verstappen | Red Bull Racing | 53 | +14.718s | 15 |\n| 4 | Lando Norris | McLaren | 53 | +19.056s | 12 |\n| 5 | Oscar Piastri | McLaren | 53 | +19.253s | 10 |\n| 6 | Lewis Hamilton | Ferrari | 53 | +24.655s | 8 |\n| 7 | Pierre Gasly | Alpine | 53 | +27.351s | 6 |\n| 8 | Arvid Lindblad | Racing Bulls | 53 | +45.136s | 4 |\n| 9 | Franco Colapinto | Alpine | 53 | +47.353s | 2 |\n| 10 | Yuki Tsunoda | Racing Bulls | 53 | +58.187s | 1 |\n| 11 | Gabriel Bortoleto | Audi | 53 | +65.187s | 0 |\n| 12 | Nico Hulkenberg | Audi | 53 | +66.187s | 0 |\n| 13 | Carlos Sainz | Williams | 53 | +74.117s | 0 |\n| 14 | Liam Lawson | Red Bull Racing | 53 | +75.609s | 0 |\n| 15 | Oliver Bearman | Haas F1 Team | 53 | +78.958s | 0 |\n| 16 | Esteban Ocon | Haas F1 Team | 52 | +1 lap | 0 |\n| 17 | Alexander Albon | Williams | 52 | +1 lap | 0 |\n| 18 | Sergio Perez | Cadillac | 52 | +1 lap | 0 |\n| 19 | Valtteri Bottas | Cadillac | 51 | +2 laps | 0 |\n| NC | Fernando Alonso | Aston Martin | 23 | DNF | 0 |\n| NC | Lance Stroll | Aston Martin | 26 | DNF | 0 |\n| NC | Charles Leclerc | Ferrari | 1 | DNF | 0 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SUN 6 SEP, 13:00 UTC\n* **Track**: Autodromo Nazionale Monza, Monza\n* **Weather**: Mostly clear, 31.8°C air, 55.4°C track, wind 7.3 kph, 39.3% humidity"
+  },
+  {
+   "sessionId": "471c1986-8f7e-4edb-bbb2-c8791488414d",
+   "eventId": "08a0f685-fb4b-4749-8c6f-16981ef62b55",
+   "sessionType": "qualifying",
+   "startTime": "2026-09-05T14:00:00.000Z",
+   "title": "2026 Italian GP - Qualifying Post-Session Thread",
+   "body": "# 🏁 QUALIFYING RESULTS\n\n| Pos | Driver | Team | Time |\n|:-|:-|:-|:-|\n| 1 | Pierre Gasly | Alpine | 1:21.786 |\n| 2 | George Russell | Mercedes | 1:21.846 |\n| 3 | Oscar Piastri | McLaren | 1:21.966 |\n| 4 | Charles Leclerc | Ferrari | 1:22.004 |\n| 5 | Lewis Hamilton | Ferrari | 1:22.011 |\n| 6 | Max Verstappen | Red Bull Racing | 1:22.070 |\n| 7 | Kimi Antonelli | Mercedes | 1:22.093 |\n| 8 | Franco Colapinto | Alpine | 1:22.220 |\n| 9 | Lando Norris | McLaren | 1:22.256 |\n| 10 | Arvid Lindblad | Racing Bulls | 1:22.286 |\n| 11 | Gabriel Bortoleto | Audi | 1:22.517 |\n| 12 | Oliver Bearman | Haas F1 Team | 1:22.756 |\n| 13 | Nico Hulkenberg | Audi | 1:22.779 |\n| 14 | Liam Lawson | Red Bull Racing | 1:22.821 |\n| 15 | Carlos Sainz | Williams | 1:23.453 |\n| 16 | Esteban Ocon | Haas F1 Team | 1:23.454 |\n| 17 | Yuki Tsunoda | Racing Bulls | 1:23.755 |\n| 18 | Alexander Albon | Williams | 1:24.356 |\n| 19 | Valtteri Bottas | Cadillac | 1:24.364 |\n| 20 | Sergio Perez | Cadillac | 1:24.595 |\n| 21 | Fernando Alonso | Aston Martin | 1:25.150 |\n| 22 | Lance Stroll | Aston Martin | 1:25.222 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 5 SEP, 14:00 UTC\n* **Track**: Autodromo Nazionale Monza, Monza\n* **Weather**: Clear, 34.1°C air, 54.9°C track, wind 10.5 kph, 33.5% humidity"
+  },
+  {
+   "sessionId": "4f06c623-df81-4778-9925-0b2233e086c1",
+   "eventId": "08a0f685-fb4b-4749-8c6f-16981ef62b55",
+   "sessionType": "practice",
+   "startTime": "2026-09-05T10:30:00.000Z",
+   "title": "2026 Italian GP - FP3 Post-Session Thread",
+   "body": "# 🏁 FP3 RESULTS\n\n| Pos | Driver | Team | Time | Laps |\n|:-|:-|:-|:-|:-|\n| 1 | George Russell | Mercedes | 1:22.219 | 12 |\n| 2 | Lewis Hamilton | Ferrari | 1:22.445 | 18 |\n| 3 | Max Verstappen | Red Bull Racing | 1:22.569 | 21 |\n| 4 | Kimi Antonelli | Mercedes | 1:22.580 | 15 |\n| 5 | Lando Norris | McLaren | 1:22.625 | 15 |\n| 6 | Charles Leclerc | Ferrari | 1:22.708 | 18 |\n| 7 | Arvid Lindblad | Racing Bulls | 1:22.724 | 18 |\n| 8 | Oscar Piastri | McLaren | 1:23.022 | 18 |\n| 9 | Pierre Gasly | Alpine | 1:23.096 | 21 |\n| 10 | Franco Colapinto | Alpine | 1:23.101 | 20 |\n| 11 | Nico Hulkenberg | Audi | 1:23.126 | 19 |\n| 12 | Liam Lawson | Red Bull Racing | 1:23.203 | 20 |\n| 13 | Gabriel Bortoleto | Audi | 1:23.298 | 18 |\n| 14 | Yuki Tsunoda | Racing Bulls | 1:23.817 | 15 |\n| 15 | Carlos Sainz | Williams | 1:23.875 | 25 |\n| 16 | Oliver Bearman | Haas F1 Team | 1:23.947 | 20 |\n| 17 | Esteban Ocon | Haas F1 Team | 1:24.020 | 22 |\n| 18 | Alexander Albon | Williams | 1:24.437 | 26 |\n| 19 | Fernando Alonso | Aston Martin | 1:24.919 | 17 |\n| 20 | Valtteri Bottas | Cadillac | 1:25.004 | 17 |\n| 21 | Sergio Perez | Cadillac | 1:25.031 | 17 |\n| 22 | Lance Stroll | Aston Martin | 1:25.555 | 19 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 5 SEP, 10:30 UTC\n* **Track**: Autodromo Nazionale Monza, Monza\n* **Weather**: Mostly clear, 30.6°C air, 50.4°C track, wind 7.3 kph, 41.4% humidity"
+  }
+ ],
+ "weekend": {
+  "eventId": "ad0fdc72-8e34-4e25-82ff-256c46ab43a1",
+  "round": 17,
+  "title": "2026 Azerbaijan Grand Prix",
+  "body": "# ROUND 17 - AZERBAIJAN\n\n**Azerbaijan Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Baku City Circuit, Baku, Azerbaijan\n* **Race laps**: 51\n\n# ⏪ LAST TIME AT BAKU CITY CIRCUIT (2025)\n\n* **Pole position**: 1:41.117, Max Verstappen (Red Bull Racing)\n* **Race winner**: Max Verstappen (Red Bull Racing)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | Time (UTC) |\n|:-|:-|:-|\n| THU | FP1 | 08:30 |\n| THU | FP2 | 12:00 |\n| FRI | FP3 | 08:30 |\n| FRI | Qualifying | 12:00 |\n| SAT | Race | 11:00 |",
+  "firstSessionStart": "2026-09-24T08:30:00.000Z"
+ }
+}

@@ -1,0 +1,40 @@
+name: relay F1 feed
+
+# raw.githubusercontent.com is one of the few hosts Reddit lets a Devvit app
+# fetch, and OC Blacktop's own hostnames are not. So this copies the API's
+# rendered threads into the repo every ten minutes; the blacktop-data app
+# reads formula1.json from here. GITHUB_TOKEN is enough to commit, so there
+# is no secret anywhere in the chain.
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  relay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: fetch and assemble
+        run: node scripts/relay.mjs
+
+      - name: commit if changed
+        run: |
+          if git diff --quiet -- formula1.json; then
+            echo "feed unchanged"
+            exit 0
+          fi
+          git config user.name "blacktop-feed"
+          git config user.email "feed@ocblacktop.com"
+          git add formula1.json
+          git commit -m "feed $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
