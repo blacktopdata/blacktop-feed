@@ -69,7 +69,7 @@
   "eventId": "ad0fdc72-8e34-4e25-82ff-256c46ab43a1",
   "round": 17,
   "title": "2026 Azerbaijan Grand Prix",
-  "body": "# ROUND 17 - AZERBAIJAN\n\n**Azerbaijan Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Baku City Circuit, Baku, Azerbaijan\n* **Race laps**: 51\n\n# ⏪ LAST TIME AT BAKU CITY CIRCUIT (2025)\n\n* **Pole position**: 1:41.117, Max Verstappen (Red Bull Racing)\n* **Race winner**: Max Verstappen (Red Bull Racing)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | Time (UTC) |\n|:-|:-|:-|\n| THU | FP1 | 08:30 |\n| THU | FP2 | 12:00 |\n| FRI | FP3 | 08:30 |\n| FRI | Qualifying | 12:00 |\n| SAT | Race | 11:00 |",
+  "body": "# ROUND 17 - AZERBAIJAN\n\n**Azerbaijan Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Baku City Circuit, Baku, Azerbaijan\n* **Race laps**: 51\n\n# ⏪ LAST TIME AT BAKU CITY CIRCUIT (2025)\n\n* **Pole position**: 1:41.117, Max Verstappen (Red Bull Racing)\n* **Race winner**: Max Verstappen (Red Bull Racing)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | UTC | ET | CET |\n|:-|:-|:-|:-|:-|\n| THU | FP1 | 08:30 | 04:30 | 10:30 |\n| THU | FP2 | 12:00 | 08:00 | 14:00 |\n| FRI | FP3 | 08:30 | 04:30 | 10:30 |\n| FRI | Qualifying | 12:00 | 08:00 | 14:00 |\n| SAT | Race | 11:00 | 07:00 | 13:00 |",
   "firstSessionStart": "2026-09-24T08:30:00.000Z"
  }
 }
