@@ -74,10 +74,10 @@
   }
  ],
  "weekend": {
-  "eventId": "01eec57a-8269-4dfa-b6b4-1be19354b7e3",
-  "round": 18,
-  "title": "2026 Bahrain Grand Prix",
-  "body": "# ROUND 18 - MALAYSIA\n\n**Bahrain Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Sepang International Circuit, Sepang, Malaysia\n* **Race laps**: 56\n\n# ⏪ LAST TIME AT SEPANG INTERNATIONAL CIRCUIT (2017)\n\n* **Pole position**: 1:30.076, Lewis Hamilton (Mercedes)\n* **Race winner**: Max Verstappen (Red Bull Racing)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | UTC | ET | CET |\n|:-|:-|:-|:-|:-|\n| FRI | FP1 | 04:30 | 00:30 | 06:30 |\n| FRI | FP2 | 08:00 | 04:00 | 10:00 |\n| SAT | FP3 | 04:30 | 00:30 | 06:30 |\n| SAT | Qualifying | 08:00 | 04:00 | 10:00 |\n| SUN | Race | 07:00 | 03:00 | 09:00 |",
-  "firstSessionStart": "2026-10-02T04:30:00.000Z"
+  "eventId": "dac7e556-67b7-4dca-a78a-e0da2cbd3537",
+  "round": 19,
+  "title": "2026 Singapore Grand Prix",
+  "body": "# ROUND 19 - SINGAPORE\n\n**Singapore Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Marina Bay Street Circuit, Marina Bay, Singapore\n* **Race laps**: 62\n\n# ⏪ LAST TIME AT MARINA BAY STREET CIRCUIT (2025)\n\n* **Pole position**: 1:29.158, George Russell (Mercedes)\n* **Race winner**: George Russell (Mercedes)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | UTC | ET | CET |\n|:-|:-|:-|:-|:-|\n| FRI | FP1 | 08:30 | 04:30 | 10:30 |\n| FRI | Sprint Q | 12:30 | 08:30 | 14:30 |\n| SAT | Sprint | 09:00 | 05:00 | 11:00 |\n| SAT | Qualifying | 13:00 | 09:00 | 15:00 |\n| SUN | Race | 12:00 | 08:00 | 14:00 |",
+  "firstSessionStart": "2026-10-09T08:30:00.000Z"
  }
 }
