@@ -1,6 +1,15 @@
 {
  "sessions": [
   {
+   "sessionId": "a072ff62-6c8c-4c97-83ad-6f4c23b3a627",
+   "eventId": "1a722267-d1bf-4d7a-99fc-18df7a6e56d5",
+   "sessionType": "race",
+   "startTime": "2026-10-25T20:00:00.000Z",
+   "title": "2026 United States GP - Race Post-Session Thread",
+   "body": "# 🏁 RACE RESULTS\n\n*Provisional classification from live timing. This thread updates with the official results once F1 publishes them.*\n\n| Pos | Driver | Team | Laps | Time/Status | Points |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 56 | Winner | 25 |\n| 2 | Charles Leclerc | Ferrari | 56 | +13.078 | 18 |\n| 3 | Max Verstappen | Red Bull Racing | 56 | +17.485 | 15 |\n| 4 | Lewis Hamilton | Ferrari | 56 | +18.515 | 12 |\n| 5 | Lando Norris | McLaren | 56 | +30.521 | 10 |\n| 6 | Isack Hadjar | Red Bull Racing | 56 | +34.373 | 8 |\n| 7 | Oscar Piastri | McLaren | 56 | +52.674 | 6 |\n| 8 | George Russell | Mercedes | 56 | +54.303 | 4 |\n| 9 | Liam Lawson | Racing Bulls | 56 | +79.183 | 2 |\n| 10 | Pierre Gasly | Alpine | 56 | +87.516 | 1 |\n| 11 | Nico Hulkenberg | Audi | 56 | +94.945 | 0 |\n| 12 | Arvid Lindblad | Racing Bulls | 55 | +1 Lap | 0 |\n| 13 | Gabriel Bortoleto | Audi | 55 | +1 Lap | 0 |\n| 14 | Esteban Ocon | Haas F1 Team | 55 | +1 Lap | 0 |\n| 15 | Lance Stroll | Aston Martin | 55 | +1 Lap | 0 |\n| 16 | Fernando Alonso | Aston Martin | 55 | +1 Lap | 0 |\n| 17 | Alexander Albon | Williams | 55 | +1 Lap | 0 |\n| 18 | Carlos Sainz | Williams | 55 | +1 Lap | 0 |\n| 19 | Sergio Perez | Cadillac | 55 | +1 Lap | 0 |\n| 20 | Valtteri Bottas | Cadillac | 48 | DNF | 0 |\n| 21 | Franco Colapinto | Alpine | 35 | DNF | 0 |\n| 22 | Oliver Bearman | Haas F1 Team | 24 | DNF | 0 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SUN 25 OCT, 20:00 UTC\n* **Track**: Circuit of The Americas, Austin\n* **Weather**: Overcast, 26.4°C air, wind 11.9 kph, 37% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/1a722267-d1bf-4d7a-99fc-18df7a6e56d5?sessionId=a072ff62-6c8c-4c97-83ad-6f4c23b3a627)",
+   "provisional": true
+  },
+  {
    "sessionId": "6719780d-282a-4b05-8403-b5bc7208b195",
    "eventId": "1a722267-d1bf-4d7a-99fc-18df7a6e56d5",
    "sessionType": "qualifying",
@@ -61,15 +70,6 @@
    "startTime": "2026-10-10T09:00:00.000Z",
    "title": "2026 Singapore GP - Sprint Post-Session Thread",
    "body": "# 🏁 SPRINT RESULTS\n\n| Pos | Driver | Team | Laps | Time/Status | Points |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Max Verstappen | Red Bull Racing | 20 | 39:48.162 | 8 |\n| 2 | Lewis Hamilton | Ferrari | 20 | +2.591s | 7 |\n| 3 | Charles Leclerc | Ferrari | 20 | +16.871s | 6 |\n| 4 | Kimi Antonelli | Mercedes | 20 | +17.238s | 5 |\n| 5 | Liam Lawson | Racing Bulls | 20 | +20.632s | 4 |\n| 6 | Oliver Bearman | Haas F1 Team | 20 | +24.321s | 3 |\n| 7 | Nico Hulkenberg | Audi | 20 | +27.525s | 2 |\n| 8 | Lando Norris | McLaren | 20 | +28.272s | 1 |\n| 9 | Pierre Gasly | Alpine | 20 | +36.220s | 0 |\n| 10 | Esteban Ocon | Haas F1 Team | 20 | +37.640s | 0 |\n| 11 | Fernando Alonso | Aston Martin | 20 | +50.464s | 0 |\n| 12 | Carlos Sainz | Williams | 20 | +52.467s | 0 |\n| 13 | Arvid Lindblad | Racing Bulls | 20 | +55.792s | 0 |\n| 14 | Oscar Piastri | McLaren | 19 | DNF | 0 |\n| NC | Sergio Perez | Cadillac | 1 | DNF | 0 |\n| NC | Lance Stroll | Aston Martin | 0 | DNF | 0 |\n| NC | Alexander Albon | Williams | 14 | DNF | 0 |\n| NC | Gabriel Bortoleto | Audi | 6 | DNF | 0 |\n| NC | Valtteri Bottas | Cadillac | 6 | DNF | 0 |\n| NC | Isack Hadjar | Red Bull Racing | 2 | DNF | 0 |\n| NC | Franco Colapinto | Alpine | 2 | DNF | 0 |\n| NC | George Russell | Mercedes | 1 | DNF | 0 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 10 OCT, 09:00 UTC\n* **Track**: Marina Bay Street Circuit, Marina Bay\n* **Weather**: Overcast, 29.6°C air, 43.4°C track, wind 7 kph, 83.8% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/dac7e556-67b7-4dca-a78a-e0da2cbd3537?sessionId=e29ac4e1-b252-4540-acd0-5b584b9ecbe1)",
-   "provisional": false
-  },
-  {
-   "sessionId": "02833f2a-7d80-4697-8fc2-f34aeee5929e",
-   "eventId": "dac7e556-67b7-4dca-a78a-e0da2cbd3537",
-   "sessionType": "sprint_qualifying",
-   "startTime": "2026-10-09T12:30:00.000Z",
-   "title": "2026 Singapore GP - Sprint Q Post-Session Thread",
-   "body": "# 🏁 SPRINT Q RESULTS\n\n| Pos | Driver | Team | Q1 | Q2 | Q3 |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Max Verstappen | Red Bull Racing | 1:33.477 | 1:32.701 | 1:31.156 |\n| 2 | George Russell | Mercedes | 1:33.573 | 1:32.614 | 1:31.276 |\n| 3 | Charles Leclerc | Ferrari | 1:33.495 | 1:32.246 | 1:31.399 |\n| 4 | Oscar Piastri | McLaren | 1:34.277 | 1:33.106 | 1:31.454 |\n| 5 | Lando Norris | McLaren | 1:34.257 | 1:32.572 | 1:31.587 |\n| 6 | Lewis Hamilton | Ferrari | 1:33.748 | 1:32.562 | 1:31.702 |\n| 7 | Kimi Antonelli | Mercedes | 1:34.392 | 1:32.998 | 1:31.849 |\n| 8 | Liam Lawson | Racing Bulls | 1:34.855 | 1:33.133 | 1:32.341 |\n| 9 | Isack Hadjar | Red Bull Racing | 1:34.182 | 1:32.947 | - |\n| 10 | Pierre Gasly | Alpine | 1:34.673 | 1:33.155 | - |\n| 11 | Franco Colapinto | Alpine | 1:35.048 | 1:33.249 | - |\n| 12 | Nico Hulkenberg | Audi | 1:34.128 | 1:33.420 | - |\n| 13 | Oliver Bearman | Haas F1 Team | 1:34.950 | 1:33.423 | - |\n| 14 | Gabriel Bortoleto | Audi | 1:34.690 | 1:33.466 | - |\n| 15 | Fernando Alonso | Aston Martin | 1:34.960 | 1:33.734 | - |\n| 16 | Esteban Ocon | Haas F1 Team | 1:35.004 | 1:34.368 | - |\n| 17 | Arvid Lindblad | Racing Bulls | 1:35.136 | - | - |\n| 18 | Lance Stroll | Aston Martin | 1:35.662 | - | - |\n| 19 | Alexander Albon | Williams | 1:36.130 | - | - |\n| 20 | Sergio Perez | Cadillac | 1:36.760 | - | - |\n| 21 | Valtteri Bottas | Cadillac | 1:36.868 | - | - |\n| 22 | Carlos Sainz | Williams | 1:37.376 | - | - |\n\n# ℹ️ SESSION INFO\n\n* **Start**: FRI 9 OCT, 12:30 UTC\n* **Track**: Marina Bay Street Circuit, Marina Bay\n* **Weather**: Light drizzle, 30.3°C air, 43.4°C track, wind 2.8 kph, 77.3% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/dac7e556-67b7-4dca-a78a-e0da2cbd3537?sessionId=02833f2a-7d80-4697-8fc2-f34aeee5929e)",
    "provisional": false
   }
  ],
