@@ -74,10 +74,10 @@
   }
  ],
  "weekend": {
-  "eventId": "1a722267-d1bf-4d7a-99fc-18df7a6e56d5",
-  "round": 20,
-  "title": "2026 United States Grand Prix",
-  "body": "# ROUND 20 - UNITED STATES\n\n**United States Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Circuit of The Americas, Austin, United States\n* **Race laps**: 56\n\n# ⏪ LAST TIME AT CIRCUIT OF THE AMERICAS (2025)\n\n* **Pole position**: 1:32.510, Max Verstappen (Red Bull Racing)\n* **Race winner**: Max Verstappen (Red Bull Racing)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | UTC | ET | CET |\n|:-|:-|:-|:-|:-|\n| FRI | FP1 | 17:30 | 13:30 | 19:30 |\n| FRI | FP2 | 21:00 | 17:00 | 23:00 |\n| SAT | FP3 | 17:30 | 13:30 | 19:30 |\n| SAT | Qualifying | 21:00 | 17:00 | 23:00 |\n| SUN | Race | 20:00 | 16:00 | 21:00 |",
-  "firstSessionStart": "2026-10-23T17:30:00.000Z"
+  "eventId": "723f663b-d7c2-4f4e-9de7-736901c10f09",
+  "round": 21,
+  "title": "2026 Mexico City Grand Prix",
+  "body": "# ROUND 21 - MEXICO\n\n**Mexico City Grand Prix**\n\n# 🏁 RACE INFORMATION\n\n* **Track**: Autódromo Hermanos Rodríguez, Mexico City, Mexico\n* **Race laps**: 71\n\n# ⏪ LAST TIME AT AUTÓDROMO HERMANOS RODRÍGUEZ (2025)\n\n* **Pole position**: 1:15.586, Lando Norris (McLaren)\n* **Race winner**: Lando Norris (McLaren)\n\n# 🕒 SESSION TIMES\n\n| Day | Session | UTC | ET | CET |\n|:-|:-|:-|:-|:-|\n| FRI | FP1 | 18:30 | 14:30 | 19:30 |\n| FRI | FP2 | 22:00 | 18:00 | 23:00 |\n| SAT | FP3 | 17:30 | 13:30 | 18:30 |\n| SAT | Qualifying | 21:00 | 17:00 | 22:00 |\n| SUN | Race | 20:00 | 15:00 | 21:00 |",
+  "firstSessionStart": "2026-10-30T18:30:00.000Z"
  }
 }
