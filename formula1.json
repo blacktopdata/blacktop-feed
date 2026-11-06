@@ -1,6 +1,15 @@
 {
  "sessions": [
   {
+   "sessionId": "6c95862c-3f69-4950-978c-865fc5386f3d",
+   "eventId": "798ed655-9bf0-46bf-9094-e0dd6bb7e89d",
+   "sessionType": "practice",
+   "startTime": "2026-11-06T19:00:00.000Z",
+   "title": "2026 São Paulo GP - FP2 Post-Session Thread",
+   "body": "# 🏁 FP2 RESULTS\n\n*Provisional classification from live timing. This thread updates with the official results once F1 publishes them.*\n\n| Pos | Driver | Team | Time | Laps |\n|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 1:10.763 | 37 |\n| 2 | Lando Norris | McLaren | 1:11.016 | 31 |\n| 3 | Max Verstappen | Red Bull Racing | 1:11.022 | 23 |\n| 4 | George Russell | Mercedes | 1:11.036 | 35 |\n| 5 | Oscar Piastri | McLaren | 1:11.084 | 32 |\n| 6 | Lewis Hamilton | Ferrari | 1:11.213 | 35 |\n| 7 | Charles Leclerc | Ferrari | 1:11.483 | 33 |\n| 8 | Gabriel Bortoleto | Audi | 1:11.780 | 33 |\n| 9 | Isack Hadjar | Red Bull Racing | 1:11.839 | 33 |\n| 10 | Oliver Bearman | Haas F1 Team | 1:11.991 | 36 |\n| 11 | Franco Colapinto | Alpine | 1:11.996 | 33 |\n| 12 | Arvid Lindblad | Racing Bulls | 1:12.008 | 36 |\n| 13 | Liam Lawson | Racing Bulls | 1:12.042 | 36 |\n| 14 | Pierre Gasly | Alpine | 1:12.109 | 37 |\n| 15 | Fernando Alonso | Aston Martin | 1:12.538 | 34 |\n| 16 | Rafael Câmara | Haas F1 Team | 1:12.561 | 30 |\n| 17 | Carlos Sainz | Williams | 1:12.742 | 33 |\n| 18 | Lance Stroll | Aston Martin | 1:12.942 | 31 |\n| 19 | Alexander Albon | Williams | 1:12.953 | 37 |\n| 20 | Sergio Perez | Cadillac | 1:13.316 | 34 |\n| 21 | Valtteri Bottas | Cadillac | 1:13.383 | 33 |\n| 22 | Nico Hulkenberg | Audi | - | - |\n\n# ℹ️ SESSION INFO\n\n* **Start**: FRI 6 NOV, 19:00 UTC\n* **Track**: Autódromo José Carlos Pace, São Paulo\n* **Weather**: Overcast, 19.9°C air, wind 7 kph, 89% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/798ed655-9bf0-46bf-9094-e0dd6bb7e89d?sessionId=6c95862c-3f69-4950-978c-865fc5386f3d)",
+   "provisional": true
+  },
+  {
    "sessionId": "f1fead1a-54b4-4150-b652-af1165df130b",
    "eventId": "798ed655-9bf0-46bf-9094-e0dd6bb7e89d",
    "sessionType": "practice",
@@ -61,15 +70,6 @@
    "startTime": "2026-10-25T20:00:00.000Z",
    "title": "2026 United States GP - Race Post-Session Thread",
    "body": "# 🏁 RACE RESULTS\n\n| Pos | Driver | Team | Laps | Time/Status | Points |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 56 | 1:35:16.650 | 25 |\n| 2 | Charles Leclerc | Ferrari | 56 | +13.078s | 18 |\n| 3 | Max Verstappen | Red Bull Racing | 56 | +17.485s | 15 |\n| 4 | Lewis Hamilton | Ferrari | 56 | +18.515s | 12 |\n| 5 | Lando Norris | McLaren | 56 | +30.521s | 10 |\n| 6 | Isack Hadjar | Red Bull Racing | 56 | +34.373s | 8 |\n| 7 | Oscar Piastri | McLaren | 56 | +52.674s | 6 |\n| 8 | George Russell | Mercedes | 56 | +54.303s | 4 |\n| 9 | Liam Lawson | Racing Bulls | 56 | +79.183s | 2 |\n| 10 | Pierre Gasly | Alpine | 56 | +87.516s | 1 |\n| 11 | Nico Hulkenberg | Audi | 56 | +94.945s | 0 |\n| 12 | Arvid Lindblad | Racing Bulls | 55 | +1 lap | 0 |\n| 13 | Gabriel Bortoleto | Audi | 55 | +1 lap | 0 |\n| 14 | Esteban Ocon | Haas F1 Team | 55 | +1 lap | 0 |\n| 15 | Lance Stroll | Aston Martin | 55 | +1 lap | 0 |\n| 16 | Fernando Alonso | Aston Martin | 55 | +1 lap | 0 |\n| 17 | Alexander Albon | Williams | 55 | +1 lap | 0 |\n| 18 | Carlos Sainz | Williams | 55 | +1 lap | 0 |\n| 19 | Sergio Perez | Cadillac | 55 | +1 lap | 0 |\n| NC | Valtteri Bottas | Cadillac | 48 | DNF | 0 |\n| NC | Franco Colapinto | Alpine | 35 | DNF | 0 |\n| NC | Oliver Bearman | Haas F1 Team | 24 | DNF | 0 |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SUN 25 OCT, 20:00 UTC\n* **Track**: Circuit of The Americas, Austin\n* **Weather**: Overcast, 26.6°C air, 37.1°C track, wind 15.8 kph, 44.6% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/1a722267-d1bf-4d7a-99fc-18df7a6e56d5?sessionId=a072ff62-6c8c-4c97-83ad-6f4c23b3a627)",
-   "provisional": false
-  },
-  {
-   "sessionId": "6719780d-282a-4b05-8403-b5bc7208b195",
-   "eventId": "1a722267-d1bf-4d7a-99fc-18df7a6e56d5",
-   "sessionType": "qualifying",
-   "startTime": "2026-10-24T21:00:00.000Z",
-   "title": "2026 United States GP - Qualifying Post-Session Thread",
-   "body": "# 🏁 QUALIFYING RESULTS\n\n| Pos | Driver | Team | Q1 | Q2 | Q3 |\n|:-|:-|:-|:-|:-|:-|\n| 1 | Kimi Antonelli | Mercedes | 1:35.390 | 1:34.278 | 1:34.035 |\n| 2 | Max Verstappen | Red Bull Racing | 1:35.215 | 1:34.471 | 1:34.214 |\n| 3 | Isack Hadjar | Red Bull Racing | 1:35.286 | 1:34.887 | 1:34.250 |\n| 4 | Charles Leclerc | Ferrari | 1:35.200 | 1:34.198 | 1:34.267 |\n| 5 | Lewis Hamilton | Ferrari | 1:35.355 | 1:34.833 | 1:34.311 |\n| 6 | George Russell | Mercedes | 1:35.730 | 1:34.305 | 1:34.476 |\n| 7 | Oscar Piastri | McLaren | 1:35.842 | 1:34.818 | 1:34.803 |\n| 8 | Lando Norris | McLaren | 1:35.029 | 1:34.539 | 1:35.049 |\n| 9 | Arvid Lindblad | Racing Bulls | 1:35.755 | 1:34.950 | 1:36.049 |\n| 10 | Liam Lawson | Racing Bulls | 1:35.662 | 1:35.058 | - |\n| 11 | Pierre Gasly | Alpine | 1:35.969 | 1:35.080 | - |\n| 12 | Nico Hulkenberg | Audi | 1:35.704 | 1:35.158 | - |\n| 13 | Gabriel Bortoleto | Audi | 1:35.632 | 1:35.691 | - |\n| 14 | Franco Colapinto | Alpine | 1:35.898 | 1:35.722 | - |\n| 15 | Fernando Alonso | Aston Martin | 1:36.240 | 1:35.818 | - |\n| 16 | Oliver Bearman | Haas F1 Team | 1:36.175 | 1:36.031 | - |\n| 17 | Esteban Ocon | Haas F1 Team | 1:36.531 | - | - |\n| 18 | Lance Stroll | Aston Martin | 1:36.677 | - | - |\n| 19 | Carlos Sainz | Williams | 1:36.770 | - | - |\n| 20 | Alexander Albon | Williams | 1:36.967 | - | - |\n| 21 | Sergio Perez | Cadillac | 1:37.433 | - | - |\n| 22 | Valtteri Bottas | Cadillac | 1:37.523 | - | - |\n\n# ℹ️ SESSION INFO\n\n* **Start**: SAT 24 OCT, 21:00 UTC\n* **Track**: Circuit of The Americas, Austin\n* **Weather**: Clear, 29.6°C air, 38.8°C track, wind 18.1 kph, 38.2% humidity\n\n[Full timing, results and history](https://ocblacktop.com/events/1a722267-d1bf-4d7a-99fc-18df7a6e56d5?sessionId=6719780d-282a-4b05-8403-b5bc7208b195)",
    "provisional": false
   }
  ],
